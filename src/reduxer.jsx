@@ -1,7 +1,5 @@
-import React from 'react';
-
-const reduxer = () => {
-  return <div>reduxer</div>;
+const reducer = (state, action) => {
+  return state;
 };
 
-export default reduxer;
+export default reducer;
