@@ -18,7 +18,6 @@ function App() {
     <div className='App'>
       <Navbar />
       <CartContainer />
-      <h2>Cart App in React</h2>
     </div>
   );
 }
